@@ -6,4 +6,5 @@
     <p>
 	Aquí va el contenido
 	</p>
+	</body>
 </html>
